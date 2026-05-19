@@ -34,13 +34,10 @@
 
 ### Currently Building
 
-I enjoy building interactive websites, frontend systems, and projects that feel alive and customizable.
-
-### Currently Working On
-
 - a retro-atmosphere art platform and pet simulator
 - a desktop-oriented game with multiplayer features and desktop buddies
 - ideas for a simple side-scroller phone game while I work out the kinks
+<p>  </p>
 
 > I’m a digital artist that realized I could be doing more. <br>
 > Now I create the assets AND build the applications. <br>
