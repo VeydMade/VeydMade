@@ -12,6 +12,8 @@
 <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
 </p>
 
+---
+
 ##  <img src="https://i.imgur.com/uaSzc4U.gif"> Exploring
 
 <p>
@@ -20,11 +22,15 @@
 <img src="https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff">
 </p>
 
+---
+
 ##  <img src="https://i.imgur.com/hQ7lkbz.gif"> Soon -->
 <p><img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine">
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"></p> 
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"></p>
+
+---
 
 ### Currently Building
 
