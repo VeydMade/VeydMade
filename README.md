@@ -43,7 +43,7 @@ I enjoy building interactive websites, frontend systems, and projects that feel 
 
 ## More examples of Art + Animation:<br>
 
-<img src ="https://i.imgur.com/07oWtxq.gif" height="200px" width="fixed"><img src ="https://i.imgur.com/p2jiKjV.gif" height="200px" width="fixed"><img src ="https://i.imgur.com/zzdbm33.gif" height="200px" width="fixed"><img src ="https://i.imgur.com/kuGUN92.gif" height="200px" width="fixed"><img src ="https://i.imgur.com/cEg2Zzi.gif" height="200px" width="fixed">
+<img src ="https://i.imgur.com/07oWtxq.gif" height="150px" width="fixed"><img src ="https://i.imgur.com/p2jiKjV.gif" height="150px" width="fixed"><img src ="https://i.imgur.com/zzdbm33.gif" height="150px" width="fixed"><img src ="https://i.imgur.com/kuGUN92.gif" height="150px" width="fixed"><img src ="https://i.imgur.com/cEg2Zzi.gif" height="150px" width="fixed">
 
 ---
 <p align="center"> 
